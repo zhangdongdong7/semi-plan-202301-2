@@ -48,3 +48,11 @@ $ cat config.json
     "age": 20
 }
 ```
+
+## 参考答案
+
+独立完成以后或无法完成的时候， 可以参考答案
+
+> https://tangx.in/posts/2023/01/24/devopscamp-cobra-binding-config-file/
+
+

@@ -46,6 +46,9 @@ $ ./out/greeting-darwin-arm64 --age 30 --name zhangsan
 zhangsan 你好, 今年 30 岁
 ```
 
-## 解题思路
+## 参考答案
 
-something
+独立完成以后或无法完成的时候， 可以参考答案
+
+> https://tangx.in/posts/2023/01/23/devopscamp-cobra01/
+

@@ -1,5 +1,5 @@
 ---
-title: "tangxin 的作业： cobra - 01 实现编译与参数绑定 100 种方式"
+title: "[提交案例] tangxin 的作业： cobra - 01 实现编译与参数绑定 n 种方式"
 categories:
   - 半月刊
 tags:
