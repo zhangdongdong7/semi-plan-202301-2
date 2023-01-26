@@ -35,3 +35,9 @@ originLink: ""
 
 为了更好的体现 **实战性**， 我们将以 `aliyun configure --profile` 的作为例子， 并进行一些优化。
 
+
+## 参考答案
+
+独立完成以后或无法完成的时候， 可以参考答案
+
+> https://tangx.in/posts/2023/01/26/devopscamp-cobra-interactive-survey/ 
